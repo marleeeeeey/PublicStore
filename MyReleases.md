@@ -15,3 +15,11 @@
 [Arkanoid-0.9.1-win64.exe](MyReleases\Arkanoid-0.9.1-win64.exe) 
 
 [Arkanoid source code](https://github.com/marleeeeeey/Cpp/tree/master/time/2019-11-23_0032_ArkanoidSFML/ArkanoidSFML)
+
+## Anki Deck Generator
+
+// TODO
+
+## Image loader
+
+// TODO
